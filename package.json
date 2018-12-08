@@ -1,0 +1,32 @@
+{
+  "name": "kuada_nathalia_zatzpancioli_anna_autoapp",
+  "version": "1.0.0",
+  "description": "Interactive Auto App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annapancioli/Kuada_Nathalia_ZatzPancioli_Anna_AutoApp.git"
+  },
+  "keywords": [
+    "interactive",
+    "design",
+    "website",
+    "app",
+    "auto"
+  ],
+  "author": "Anna Carolina Zatz Pancioli and Nathalia Miki Kuada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annapancioli/Kuada_Nathalia_ZatzPancioli_Anna_AutoApp/issues"
+  },
+  "homepage": "https://github.com/annapancioli/Kuada_Nathalia_ZatzPancioli_Anna_AutoApp#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.10.0"
+  }
+}
